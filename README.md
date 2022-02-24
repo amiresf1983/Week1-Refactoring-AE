@@ -20,14 +20,16 @@ the project will be approved only if it meets these criteria below:
 ## Applied Technics:
 
 - replacing the webpage title by a relevant title.
-- apply alt tag to the images for accessibility.
+- applying alt tag to the images for accessibility.
 - removing duplicate codes and also extra codes that can be avoided to make the codes tidy and organised.
 - apply class tag and  organise the codes with the same nature to avoid too many codes.
-- organise the tags in a logical way by making sure indentation is in a correct way.
-- create the required elements which every professional website needs such as headings, header, footer,etc.
+- organising the tags in a logical way by making sure indentation is in a correct way.
+- creating the required elements which every professional website needs such as headings, header, footer,etc.
 
 
 ## Webpage Appearance:
 ![digital-marketing-website](https://github.com/amiresf1983/Week1-Refactoring-AE/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
-
+## Useful Github links:
+[Initial project](
+[completed project](
