@@ -32,4 +32,4 @@ the project will be approved only if it meets these criteria below:
 
 ## Useful Github links:
 [Initial project](https://github.com/amiresf1983/Week1-Refactoring-AE/tree/main/assets/initial-files)
-[completed project](
+[completed project](https://github.com/amiresf1983/Week1-Refactoring-AE)
