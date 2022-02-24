@@ -31,5 +31,5 @@ the project will be approved only if it meets these criteria below:
 ![digital-marketing-website](https://github.com/amiresf1983/Week1-Refactoring-AE/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
 ## Useful Github links:
-[Initial project](https://github.com/amiresf1983/Week1-Refactoring-AE/tree/main/assets/initial-files)
-[completed project](https://github.com/amiresf1983/Week1-Refactoring-AE)
+- [Initial project](https://github.com/amiresf1983/Week1-Refactoring-AE/tree/main/assets/initial-files)
+- [completed project](https://github.com/amiresf1983/Week1-Refactoring-AE)
